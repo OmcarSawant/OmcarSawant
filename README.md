@@ -28,10 +28,6 @@
 🏢 OpenText — SDE Intern (IAM Team)
 📅 Apr 2025 – Oct 2025
 
-## 🚀 Projects
-
-
-
 ## 🌐 Connect With Me
 💼 LinkedIn: https://www.linkedin.com/in/omkar-sawant-b8191222a/
 🌐 Email : omcars253@gmail.com
