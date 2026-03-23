@@ -1,4 +1,4 @@
-##👋 Hi, I'm Omkar Sawant
+#👋 Hi, I'm Omkar Sawant
 ## Backend Developer • Full Stack Engineer • Problem Solver
 
 ### 💻 Computer Science Engineer passionate about building scalable systems, secure authentication workflows, and modern web apps.
