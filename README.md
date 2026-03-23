@@ -30,10 +30,13 @@
 
 ## 🚀 Projects
 
-🚀 Deployed apps using modern cloud platforms
+
 
 ## 🌐 Connect With Me
 💼 LinkedIn: https://www.linkedin.com/in/omkar-sawant-b8191222a/
+🌐 Email : omcars253@gmail.com
+
+## 🚀 Deployed apps using modern cloud platforms
 🌍 Portfolio: https://omkarsawant.vercel.app
 🧠 Core Concepts
 
