@@ -61,7 +61,7 @@
 Deployed apps using:
 🌐 Connect With Me
 💼 LinkedIn: https://www.linkedin.com/in/omkar-sawant-b8191222a/
-🌍 Portfolio: https://omcarsawant.vercel.app
+🌍 Portfolio: https://omkarsawant.vercel.app
 
 🧠 Core Concepts
 ✔ Data Structures & Algorithms  
