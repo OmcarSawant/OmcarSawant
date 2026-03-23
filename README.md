@@ -1,11 +1,80 @@
-<h1 align="center">Hi 👋, I'm Omkar</h1>
-<h3 align="center">Building things for the web & Mobile • Exploring tech • Learning every day</h3>
+#👋 Hi, I'm Omkar Sawant
+## Backend Developer • Full Stack Engineer • Problem Solver
 
-- 👨‍💻 All of my projects are available at [omkarsawant.vercel.app](omkarsawant.vercel.app)
+### 💻 Computer Science Engineer passionate about building scalable systems, secure authentication workflows, and modern web apps.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 📍 Bangalore, India
+## 📫 omcars2503@gmail.com
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+# 🚀 About Me
+##  🔭 Worked as SDE Intern @ OpenText (IAM Team)
+## ⚙️ Built secure authentication & authorization systems
+## 🌱 Currently exploring System Design & Scalable Architectures
+## 🧠 Strong in Data Structures, OOP & Backend Engineering
+## ☁️ Experienced with cloud deployment (Vercel, Render)
+## 🛠️ Tech Stack
+## 👨‍💻 Languages
+
+# 🌐 Frontend
+
+
+# ⚙️ Backend & APIs
+
+
+
+
+
+
+# 🗄️ Databases
+
+
+
+
+# ☁️ Tools & DevOps
+
+
+
+# 💼 Experience
+## 🏢 OpenText — SDE Intern (IAM Team)
+
+## 📅 Apr 2025 – Oct 2025
+
+⚡ Automated 60+ E2E test cases using Playwright & TypeScript
+🔐 Worked on authentication & authorization systems
+🚀 Integrated CI/CD pipelines (Jenkins + GitLab) → reduced release time by 30%
+🧩 Debugged production issues in distributed systems
+
+# 🚀 Projects
+🤖 Cognify — AI Chatbot Platform
+Built scalable REST APIs for chatbot workflows
+Integrated AI/NLP services for contextual responses
+Implemented JWT authentication & session management
+Deployed on Vercel + Render
+🔖 Smart Bookmark Application
+🔐 Google OAuth 2.0 authentication
+🛡️ Row-Level Security (RLS) for user data
+📊 Responsive dashboard with CI/CD deployment
+💱 Currency Converter
+Java-based web app with CRUD operations
+Integrated external APIs + JSON handling
+🔑 Secure API-key based authentication
+📊 GitHub Stats
+
+🌐 Connect With Me
+💼 LinkedIn: [Add your LinkedIn link]
+🌍 Portfolio: [Add your Portfolio link]
+📧 Email: omcars2503@gmail.com
+🧠 Core Concepts
+✔ Data Structures & Algorithms  
+✔ Object-Oriented Programming  
+✔ REST API Design  
+✔ Authentication (JWT, OAuth)  
+✔ CI/CD & DevOps  
+✔ System Design Basics  
+🎯 2026 Goals
+🚀 Become a Backend/System Design Expert
+🌍 Contribute to Open Source
+⚡ Build high-scale production apps
+⚡ Dev Quote
+"Build secure. Build scalable. Build impactful."
+⭐ If you like my work, give a star!
