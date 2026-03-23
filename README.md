@@ -3,8 +3,7 @@
 
 ### 💻 Computer Science Engineer passionate about building scalable systems, secure authentication workflows, and modern web apps.
 
-## 📍 Bangalore, India
-## 📫 omcars2503@gmail.com
+## 📍 Bangalore, India | 📫 omcars2503@gmail.com
 
 # 🚀 About Me
 🔭 Worked as SDE Intern @ OpenText (IAM Team)
@@ -60,7 +59,6 @@
 
 # 🚀 Projects
 Deployed apps using:
-
 🌐 Connect With Me
 💼 LinkedIn: https://www.linkedin.com/in/omkar-sawant-b8191222a/
 🌍 Portfolio: https://omcarsawant.vercel.app
