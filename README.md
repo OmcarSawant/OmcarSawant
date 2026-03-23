@@ -1,4 +1,4 @@
-#👋 Hi, I'm Omkar Sawant
+##👋 Hi, I'm Omkar Sawant
 ## Backend Developer • Full Stack Engineer • Problem Solver
 
 ### 💻 Computer Science Engineer passionate about building scalable systems, secure authentication workflows, and modern web apps.
@@ -14,7 +14,12 @@
 ☁️ Experienced with cloud deployment (Vercel, Render)
 
 ## 👨‍💻 Languages
-c++ , Java , JavaScript , TypeScript
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
+</p>
 
 # 🌐 Frontend
 ReactJS , NextJS , React-native , SCSS ,Tailwind
@@ -28,17 +33,13 @@ GitHub , Figma , Jenkins , AI agents
 # 💼 Experience
 ## 🏢 OpenText — SDE Intern (IAM Team) -  📅 Apr 2025 – Oct 2025
 
-⚡ Automated 60+ E2E test cases using Playwright & TypeScript
-🔐 Worked on authentication & authorization systems
-🚀 Integrated CI/CD pipelines (Jenkins + GitLab) → reduced release time by 30%
-🧩 Debugged production issues in distributed systems
-
 # 🚀 Projects
 Deployed apps using:
 
 🌐 Connect With Me
 💼 LinkedIn: https://www.linkedin.com/in/omkar-sawant-b8191222a/
 🌍 Portfolio: https://omcarsawant.vercel.app
+
 🧠 Core Concepts
 ✔ Data Structures & Algorithms  
 ✔ Object-Oriented Programming  
