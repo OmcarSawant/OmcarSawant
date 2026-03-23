@@ -6,10 +6,14 @@
 ### 📍 Bangalore, India • 📫 omcars2503@gmail.com
 
 ## 🚀 About Me
-🔭 Worked as SDE Intern @ OpenText (IAM Team)
+### 🔭 Worked as SDE Intern @ OpenText (IAM Team)
+
 ⚙️ Built secure authentication & authorization systems
+<br>
 🌱 Exploring System Design & Scalable Architectures
+<br>
 🧠 Strong in Data Structures, OOP & Backend Engineering
+<br>
 ☁️ Experience with cloud deployment (Vercel, Render)
 ## 👨‍💻 Languages
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/> </p>
@@ -30,18 +34,20 @@
 
 ## 🌐 Connect With Me
 💼 LinkedIn: https://www.linkedin.com/in/omkar-sawant-b8191222a/
+<br>
 🌐 Email : omcars253@gmail.com
 
 ## 🚀 Deployed apps using modern cloud platforms
 🌍 Portfolio: https://omkarsawant.vercel.app
+<br>
 🧠 Core Concepts
 
-✔ Data Structures & Algorithms
-✔ Object-Oriented Programming
-✔ REST API Design
-✔ Authentication (JWT, OAuth)
-✔ CI/CD & DevOps
-✔ System Design Basics
+✔ Data Structures & Algorithms<br>
+✔ Object-Oriented Programming<br>
+✔ REST API Design<br>
+✔ Authentication (JWT, OAuth)<br>
+✔ CI/CD & DevOps<br>
+✔ System Design Basics<br>
 
 ## 🎯 2026 Goals
 🚀 Become a Backend/System Design Expert
