@@ -7,37 +7,26 @@
 ## 📫 omcars2503@gmail.com
 
 # 🚀 About Me
-##  🔭 Worked as SDE Intern @ OpenText (IAM Team)
-## ⚙️ Built secure authentication & authorization systems
-## 🌱 Currently exploring System Design & Scalable Architectures
-## 🧠 Strong in Data Structures, OOP & Backend Engineering
-## ☁️ Experienced with cloud deployment (Vercel, Render)
-## 🛠️ Tech Stack
+🔭 Worked as SDE Intern @ OpenText (IAM Team)
+⚙️ Built secure authentication & authorization systems
+🌱 Currently exploring System Design & Scalable Architectures
+🧠 Strong in Data Structures, OOP & Backend Engineering
+☁️ Experienced with cloud deployment (Vercel, Render)
+
 ## 👨‍💻 Languages
+c++ , Java , JavaScript , TypeScript
 
 # 🌐 Frontend
-
+ReactJS , NextJS , React-native , SCSS ,Tailwind
 
 # ⚙️ Backend & APIs
-
-
-
-
-
-
-# 🗄️ Databases
-
-
-
+ExpressJS , RESTAPIs , MongoDB , Supabase , SQL
 
 # ☁️ Tools & DevOps
-
-
+GitHub , Figma , Jenkins , AI agents
 
 # 💼 Experience
-## 🏢 OpenText — SDE Intern (IAM Team)
-
-## 📅 Apr 2025 – Oct 2025
+## 🏢 OpenText — SDE Intern (IAM Team) -  📅 Apr 2025 – Oct 2025
 
 ⚡ Automated 60+ E2E test cases using Playwright & TypeScript
 🔐 Worked on authentication & authorization systems
@@ -45,25 +34,11 @@
 🧩 Debugged production issues in distributed systems
 
 # 🚀 Projects
-🤖 Cognify — AI Chatbot Platform
-Built scalable REST APIs for chatbot workflows
-Integrated AI/NLP services for contextual responses
-Implemented JWT authentication & session management
-Deployed on Vercel + Render
-🔖 Smart Bookmark Application
-🔐 Google OAuth 2.0 authentication
-🛡️ Row-Level Security (RLS) for user data
-📊 Responsive dashboard with CI/CD deployment
-💱 Currency Converter
-Java-based web app with CRUD operations
-Integrated external APIs + JSON handling
-🔑 Secure API-key based authentication
-📊 GitHub Stats
+Deployed apps using:
 
 🌐 Connect With Me
-💼 LinkedIn: [Add your LinkedIn link]
-🌍 Portfolio: [Add your Portfolio link]
-📧 Email: omcars2503@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/omkar-sawant-b8191222a/
+🌍 Portfolio: https://omcarsawant.vercel.app
 🧠 Core Concepts
 ✔ Data Structures & Algorithms  
 ✔ Object-Oriented Programming  
@@ -71,9 +46,9 @@ Integrated external APIs + JSON handling
 ✔ Authentication (JWT, OAuth)  
 ✔ CI/CD & DevOps  
 ✔ System Design Basics  
-🎯 2026 Goals
+## 🎯 2026 Goals
 🚀 Become a Backend/System Design Expert
-🌍 Contribute to Open Source
+🌍 Contribute to Open Source , learn smartphone native development
 ⚡ Build high-scale production apps
 ⚡ Dev Quote
 "Build secure. Build scalable. Build impactful."
