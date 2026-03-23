@@ -3,7 +3,7 @@
 
 💻 Computer Science Engineer passionate about building scalable systems, secure authentication workflows, and modern web apps
 
-### 📍 Bangalore, India • 📫 omcars2503@gmail.com
+### 📍 Bangalore, India • 📫 omcars253@gmail.com
 
 ## 🚀 About Me
 ### 🔭 Worked as SDE Intern @ OpenText (IAM Team)
