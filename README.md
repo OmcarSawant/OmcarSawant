@@ -22,13 +22,38 @@
 </p>
 
 # 🌐 Frontend
-ReactJS , NextJS , React-native , SCSS ,Tailwind
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React Native"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" alt="SCSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="Tailwind CSS"/>
+</p>
 
 # ⚙️ Backend & APIs
-ExpressJS , RESTAPIs , MongoDB , Supabase , SQL
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="REST APIs"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" alt="Supabase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="SQL"/>
+</p>
 
 # ☁️ Tools & DevOps
-GitHub , Figma , Jenkins , AI agents
+<p align="left">
+  <a href="https://github.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma"/>
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" alt="Jenkins"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/rocket.png" width="40" alt="Antigravity"/>
+  </a>
+</p>
 
 # 💼 Experience
 ## 🏢 OpenText — SDE Intern (IAM Team) -  📅 Apr 2025 – Oct 2025
