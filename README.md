@@ -56,7 +56,7 @@
 </p>
 
 # 💼 Experience
-## 🏢 OpenText — SDE Intern (IAM Team) -  📅 Apr 2025 – Oct 2025
+🏢 OpenText — SDE Intern (IAM Team) -  📅 Apr 2025 – Oct 2025
 
 # 🚀 Projects
 Deployed apps using:
