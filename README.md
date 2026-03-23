@@ -5,7 +5,7 @@
 
 ### 📍 Bangalore, India • 📫 omcars2503@gmail.com
 
-## 🚀 About Me
+##🚀 About Me
 🔭 Worked as SDE Intern @ OpenText (IAM Team)
 ⚙️ Built secure authentication & authorization systems
 🌱 Exploring System Design & Scalable Architectures
